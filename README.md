@@ -17,7 +17,7 @@ Gait re-training is an effective approach to slow disease progression and allevi
 Our tested environment settings:
 
 - Python version: 3.10
-- Pytorch version: 2.4
+- Pytorch version: 2.2
 
 Dependencies:
 - Pytorch: Please follow the [Installation instructions](https://pytorch.org/)
