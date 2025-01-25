@@ -82,5 +82,14 @@ Please notice that the device configuration is in file `src/config.py` and defau
 If you find our work useful in your research, please consider citing:
 
 ```bibtext
-To be done
+@article{yang2024kneeguard,
+  title={KneeGuard: A Calibration-free Wearable Monitoring System for Knee Osteoarthritis Gait Re-training via Effortless Wearing},
+  author={Yang, Baichen and Zhang, Xinyi and Zhang, Jiaxi and Huang, Zirui and Lu, Qiqi and Zhang, Jin and Hu, Hai and Zhang, Qian},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={8},
+  number={4},
+  pages={1--29},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}
 ```
